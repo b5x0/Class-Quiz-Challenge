@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d437837d052d2244f9bbf6fbb2a0ebc6, type: 3}
+  m_Name: Animal_Lizard
+  m_EditorClassIdentifier: 
+  itemName: Lizard
+  itemSprite: {fileID: 1769036553957449704, guid: 164e08c2abda6bc4bbab573959056203, type: 3}
