@@ -11,7 +11,6 @@ This repository contains a completed technical challenge for a Game Developer po
 The game consists of 10 rounds where the player must correctly match three pictures of animals to their corresponding names by drawing lines between them.
 
  
-*(**Note:** I've used a placeholder image here. You should take a screenshot of YOUR game and replace this URL to make it look even better! You can upload an image directly to a GitHub issue or use a site like Imgur.)*
 
 ### Core Features:
 *   **Drag & Drop Line Drawing:** Intuitive line-drawing mechanic to connect images and names.
